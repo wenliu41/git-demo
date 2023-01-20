@@ -5,3 +5,4 @@ Hello git!
 Hello git!
 fixing finish!
 master test
+hot fix test
